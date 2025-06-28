@@ -19,6 +19,7 @@
 		"@sveltejs/adapter-auto": "^4.0.0",
 		"@sveltejs/kit": "^2.21.4",
 		"@sveltejs/vite-plugin-svelte": "^5.0.0",
+		"@types/node": "^24.0.7",
 		"autoprefixer": "^10.4.21",
 		"eslint": "^9.18.0",
 		"eslint-config-prettier": "^10.0.1",
@@ -35,6 +36,7 @@
 		"vite": "^6.0.0"
 	},
 	"dependencies": {
+		"@sendgrid/mail": "^8.1.5",
 		"@stripe/stripe-js": "^7.3.1",
 		"@tsconfig/svelte": "^5.0.4",
 		"stripe": "^18.2.1"
